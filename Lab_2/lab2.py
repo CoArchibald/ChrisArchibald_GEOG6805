@@ -1,3 +1,5 @@
+# Chris Archibald
+
 import sys
 
 def get_absolute_path():
